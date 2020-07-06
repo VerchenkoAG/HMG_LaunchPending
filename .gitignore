@@ -1,0 +1,8 @@
+*.exe
+*.7z
+OBJ
+backups
+h_windows.prg
+*MsgLog*.txt
+build.log
+myWait.hbp
